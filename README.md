@@ -6,8 +6,6 @@ I'm a Software Engineering student at Addis Ababa University, currently focused 
 
 🧠 I've solved **200+ LeetCode problems**, sharpening my problem-solving, data structures, and algorithms skills through daily practice.
 
-🎯 I'm currently An Intern at **Adot**, a maternity and pregnancy tracking startup under A2SV’s incubator, contributing to backend development.
-
 🤖 I’m also working on AI-related projects, applying machine learning to solve real-world problems.
 
 📱 Currently learning Flutter to build cross-platform mobile applications.
